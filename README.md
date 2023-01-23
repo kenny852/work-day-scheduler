@@ -15,4 +15,6 @@ This app will run in the browser and feature dynamically updated HTML and CSS po
 
 * Persist events between refreshes of a page
 
+please visit with below url : https://kenny852.github.io/work-day-scheduler/
+
 ![site demo](./images/demo.jpg)
